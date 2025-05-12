@@ -34,4 +34,4 @@ async def ask(ctx, *, question):
 
     await ctx.send(f"🤖 **[{selected_ai.upper()}] Answer:** {response}")
 
-bot.run(os.getenv('MTM2NjQ4MzA4MzA0NTM3MjA2NQ.GTX4aP.wH0BqSlZCss3WSedvGawJcLA9CSxWdOmN5dC4E'))
+bot.run(os.getenv('your token'))
