@@ -1,7 +1,7 @@
 # 🤖 AI Multi-Chatbot Discord Bot
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)
-![License](https://img.shields.io/github/license/your-username/your-repo-name.svg)
+![License](https://img.shields.io/badge/License-MIT-green.svg)
 ![OpenAI](https://img.shields.io/badge/OpenAI-Integrated-success)
 ![Gemini](https://img.shields.io/badge/Gemini-Enabled-brightgreen)
 ![Claude](https://img.shields.io/badge/Claude-Connected-yellowgreen)
