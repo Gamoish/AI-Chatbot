@@ -115,11 +115,7 @@ Pull requests are welcome! For major changes, open an issue first to discuss you
 This project is licensed under the MIT License.
 
 🌐 Links
-🔗 Portfolio: Your Website
-
-🧪 Demo: Coming Soon!
-
-🐙 GitHub: @your-username
+🐙 GitHub: @Gamoish
 
 yaml
 Copy
