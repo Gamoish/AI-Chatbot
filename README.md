@@ -90,11 +90,6 @@ Based on intent/type, the appropriate AI handler (*_client.py) is called.
 
 The response is sent back to the user in the Discord server.
 
-Example:
-
-text
-Copy
-Edit
 User: "Summarize this paragraph."
 → Filter selects Claude
 → Claude responds with summary
@@ -117,13 +112,6 @@ This project is licensed under the MIT License.
 🌐 Links
 🐙 GitHub: @Gamoish
 
-yaml
-Copy
-Edit
-
----
-
-Let me know your GitHub repo name and username if you want those badge links and URLs made live. Want a logo or thumbnail too? I can generate one for your README banner.
 
 
 
