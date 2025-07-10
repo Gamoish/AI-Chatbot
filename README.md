@@ -37,16 +37,16 @@ This project demonstrates:
 
 ## 🧾 Project Structure
 
-📦 ai-multibot-discord
-├── 📄 .env                # Environment variables (do not commit!)
-├── 📄 LICENSE             # Project license (MIT)
-├── 📄 README.md           # Project documentation
-├── 📄 requirements.txt    # Python dependencies
-├── 📄 bot.py              # Main bot logic and Discord event handler
-├── 📄 filter.py           # Core routing logic (decides which AI to use)
-├── 📄 openai_client.py    # Handles OpenAI requests and responses
-├── 📄 gemini_client.py    # Handles Gemini API interaction
-├── 📄 claude_client.py    # Handles Claude API integration
+ai-multibot-discord/
+├── .env               → Environment variables (not committed)
+├── LICENSE            → Project license (MIT)
+├── README.md          → Project documentation
+├── requirements.txt   → Python dependencies
+├── bot.py             → Main bot logic and Discord event handling
+├── filter.py          → Core routing logic (chooses best AI)
+├── openai_client.py   → Handles OpenAI requests and responses
+├── gemini_client.py   → Handles Gemini API interaction
+├── claude_client.py   → Handles Claude API integration
 
 
 ---
