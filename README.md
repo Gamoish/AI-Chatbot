@@ -37,6 +37,9 @@ This project demonstrates:
 
 ## 🧾 Project Structure
 
+## 📁 Project Structure
+
+```
 ai-multibot-discord/
 ├── .env               → Environment variables (not committed)
 ├── LICENSE            → Project license (MIT)
@@ -47,6 +50,8 @@ ai-multibot-discord/
 ├── openai_client.py   → Handles OpenAI requests and responses
 ├── gemini_client.py   → Handles Gemini API interaction
 ├── claude_client.py   → Handles Claude API integration
+```
+
 
 
 ---
